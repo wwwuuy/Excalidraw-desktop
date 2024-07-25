@@ -2,21 +2,21 @@ Excalidraw Windows Desktop Version Using Kooboo. For Mac Version, see video link
 
 # Getting Started
 
-Download from release or source code. Click Kooboo.exe to start, and then Click "Start"
+Download from the release or source code. Click Kooboo.exe to start, Then, click on "Start"
 
 <img alt="kooboo start" src="https://github.com/user-attachments/assets/cfb8fe1a-97ab-4308-b454-c5c02f3fe237" width="800" >
  
-If there is a firewall of Internet Access, click "YES" to continue.
+If prompted by a firewall for Internet access, click "YES" to continue.
 
 # Login Using admin / admin
 
-In the open screen, login by user: admin, password: admin
+On the login screen, enter the following credentials:  user: admin, password: admin
 
 <img alt="kooboo login" src="https://github.com/user-attachments/assets/8686fd6b-b4dc-4fe6-9908-9ac4b8b9bc0f" width="800" > 
 
 # Open Excalidraw App
 
-Click below link to open Excalidraw APP, and login again using the same username and password. 
+Click the link below to open the Excalidraw App and log in again using the same username and password.
 
 <img alt="kooboo excalidraw" src="https://github.com/user-attachments/assets/8b9fa6f7-e104-44a1-a80d-46babb9ffce3" width="800" >
  
